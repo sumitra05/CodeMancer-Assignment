@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+## Deployed Link : https://code-mancer-assignment-ik593m11n-sumitra05.vercel.app/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
