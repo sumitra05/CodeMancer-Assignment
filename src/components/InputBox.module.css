@@ -1,0 +1,79 @@
+.container{
+    margin: auto;
+    margin-top: 30px;
+    width: 300px;
+    height: 400px;
+    border: 1px solid rgb(224, 132, 132);
+
+}
+.nameBox{
+    display: flex;
+    border-bottom: 1px solid grey;
+    background-color: rgb(100, 105, 111);
+}
+.imageBox{
+    width: 60px;
+    height: 60px;
+    border-radius: 100%;
+    margin-left: 20px;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB5_fgFujqsKyYMTe3r5dk7S9OkdoDq9lTgQ&usqp=CAU");
+    background-size: cover;
+}
+
+
+.messageBox{
+    margin: auto;
+    text-align: center;
+    height: 285px;
+    overflow-y: auto;
+    
+}
+
+.buttonBox{
+  border-top: 1px solid grey;
+   
+}
+
+.inputBox{
+    width: 60%;
+    height: 40px;
+    margin-left: -70px;
+    border-color: DodgerBlue;
+    border-radius: 5px;
+    outline: none;
+}
+.gifButton{
+    width: 40px;
+    height: 30px;
+    border: none;
+    outline-color: rgb(56, 95, 56);
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: aqua;
+}
+
+.gifButton:hover{
+    background-color: rgb(217, 140, 140);
+    color:rgb(232, 76, 76);
+}
+
+.sendButton{
+
+    width: 40px;
+    height: 30px;
+    border: none;
+    background-color: rgb(43, 131, 219);
+    color: white;
+    outline-color: rgb(40, 61, 163);
+    margin-left: 10px;
+    margin-right: -70px;
+    border-radius: 5px;
+}
+.sendButton:hover{
+    background-color: rgb(112, 206, 112);
+    color:white;
+}
+
+.text{
+   color: rgb(104, 123, 104);
+}
